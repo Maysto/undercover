@@ -12,8 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Undercover
-        <Row className='mb-3 mt-3'>
+        <Row className='mb-3'>
           <InputGroup>
             <InputGroupText>
               Nom de compte :
@@ -25,7 +24,7 @@ function App() {
             </Input>
           </InputGroup>
         </Row>
-        <Row className=''>
+        <Row>
           <InputGroup>
             <InputGroupText>
               Mot de passe :
