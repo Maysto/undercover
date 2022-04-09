@@ -1,4 +1,10 @@
-import { Input, InputGroup, InputGroupText, Row } from 'reactstrap';
+import {
+  Button,
+  Input,
+  InputGroup,
+  InputGroupText,
+  Row,
+} from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -30,6 +36,20 @@ function App() {
             >
             </Input>
           </InputGroup>
+        </Row>
+        <Row className='mt-3'>
+          <Button
+            color='warning'
+          >
+            Connexion
+          </Button>
+          <Button
+            className='mt-3'
+            color='primary'
+            type='link'
+          >
+            Creer un compte
+          </Button>
         </Row>
       </header>
     </div>
