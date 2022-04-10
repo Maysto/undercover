@@ -17,9 +17,9 @@ Le but de l'undercover et de Mr. White est de ne pas se faire reperer par les au
 
 # Systeme de points 
 Joueurs "inspecteur" : 
--Si vote pour la mauvaise personne perds X points (X = nombre de joueurs ayant voté pour la mauvaise personne)
--Ne subit pas de changement si vote blanc
--Si vote pour la bonne personne gagne X points (X = nombre de joueurs ayant voté pour la bonne personne)
+* Si vote pour la mauvaise personne perds X points (X = nombre de joueurs ayant voté pour la mauvaise personne)
+* Ne subit pas de changement si vote blanc
+* Si vote pour la bonne personne gagne X points (X = nombre de joueurs ayant voté pour la bonne personne)
 
 Joueur "undercover" ou "Mr. White" :
 * Gagne 1 point pour chaque "inspecteur" n'ayant pas voté pour lui
