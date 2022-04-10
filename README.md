@@ -22,6 +22,6 @@ Joueurs "inspecteur" :
 -Si vote pour la bonne personne gagne X points (X = nombre de joueurs ayant voté pour la bonne personne)
 
 Joueur "undercover" ou "Mr. White" :
--Gagne 1 point pour chaque "inspecteur" n'ayant pas voté pour lui
--Perds 1 point pour chaque "inspecteur" ayant voté pour lui
--Bonus 1-2 points (selon nombre de joueur) si il n'est pas la personne ayant le plus de vote
+* Gagne 1 point pour chaque "inspecteur" n'ayant pas voté pour lui
+* Perds 1 point pour chaque "inspecteur" ayant voté pour lui
+* Bonus 1-2 points (selon nombre de joueur) si il n'est pas la personne ayant le plus de vote
